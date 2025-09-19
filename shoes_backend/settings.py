@@ -93,7 +93,7 @@ MEDIA_ROOT = BASE_DIR / 'media'
 
 # CORS
 CORS_ALLOWED_ORIGINS = [
-    "https://your-frontend.vercel.app",  # Replace with your Vercel frontend URL
+    "https://shoes-frontend-one.vercel.app",  # Replace with your Vercel frontend URL
 ]
 
 # JWT
